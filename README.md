@@ -1,1 +1,1 @@
-My team and I developed our own shell implementation
+My team and I developed our own shell implementation.
